@@ -1,0 +1,29 @@
+/* BASIC STYLES HERE */
+
+
+.pokemon {
+  border: 1px solid gray;
+  text-align: center;
+
+}
+
+.all-pokemon {
+  max-height: 100vh;
+  overflow: scroll;
+}
+
+.moves-card {
+  max-height: 30vh;
+  overflow: scroll;
+}
+
+.sprite {
+  height: 15em;
+}
+
+.caught-pokemon {
+  border: 1px solid rgb(44, 43, 43);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
